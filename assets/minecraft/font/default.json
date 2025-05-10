@@ -1,0 +1,209 @@
+{
+    "providers":[
+        {
+        "ascent":9,
+        "chars":[""],
+        "file":"font/tags/community_developer.png",
+        "height":256,
+        "type":"bitmap"
+        },
+        {
+        "ascent":9,
+        "chars":[""],
+        "file":"font/tags/staff_owner.png",
+        "height":259,
+        "type":"bitmap"
+        },
+
+
+        {
+        "ascent":24,
+        "chars":[""],
+        "file":"font/trilandgamemenu1.png",
+        "height":32,
+        "type":"bitmap"
+        },
+        {
+        "ascent":24,
+        "chars":[""],
+        "file":"font/trilandgamemenu2.png",
+        "height":32,
+        "type":"bitmap"
+        },
+        {
+        "ascent":24,
+        "chars":[""],
+        "file":"font/trilandgamemenu3.png",
+        "height":32,
+        "type":"bitmap"
+        },
+        {
+        "ascent":24,
+        "chars":[""],
+        "file":"font/trilandgamemenu4.png",
+        "height":32,
+        "type":"bitmap"
+        },
+        {
+        "ascent":24,
+        "chars":[""],
+        "file":"font/trilandgamemenu5.png",
+        "height":32,
+        "type":"bitmap"
+        },
+        {
+        "ascent":24,
+        "chars":[""],
+        "file":"font/trilandgamemenu6.png",
+        "height":32,
+        "type":"bitmap"
+        },
+        {
+        "ascent":24,
+        "chars":[""],
+        "file":"font/trilandgamemenu7.png",
+        "height":32,
+        "type":"bitmap"
+        },
+        {
+        "ascent":24,
+        "chars":[""],
+        "file":"font/trilandgamemenu8.png",
+        "height":32,
+        "type":"bitmap"
+        },
+
+
+        {
+        "ascent":-32768,
+        "chars":[""],
+        "file":"font/space/space_nosplit.png",
+        "height":-3,
+        "type":"bitmap"
+        },
+        {
+        "ascent":-32768,
+        "chars":[""],
+        "file":"font/space_split.png",
+        "height":-13,
+        "type":"bitmap"
+        },
+        {
+        "ascent":-32768,
+        "chars":[""],
+        "file":"font/space_split.png",
+        "height":-14,
+        "type":"bitmap"
+        },
+        {
+        "ascent":-32768,
+        "chars":[""],
+        "file":"font/space_split.png",
+        "height":-15,
+        "type":"bitmap"
+        },
+
+
+
+
+
+        {
+            "ascent": 9,
+            "chars": [""],
+            "file": "minecraft:tags/bar_start.png",
+            "height": 11,
+            "type": "bitmap"
+          },
+          {
+            "ascent": 9,
+            "chars": [""],
+            "file": "minecraft:tags/bar_end.png",
+            "height": 11,
+            "type": "bitmap"
+          },
+          {
+            "ascent": 9,
+            "chars": [""],
+            "file": "minecraft:tags/bar_middle_1.png",
+            "height": 11,
+            "type": "bitmap"
+          },
+          {
+            "ascent": 9,
+            "chars": [""],
+            "file": "minecraft:tags/bar_middle_2.png",
+            "height": 11,
+            "type": "bitmap"
+          },
+          {
+            "ascent": 9,
+            "chars": [""],
+            "file": "minecraft:tags/bar_middle_3.png",
+            "height": 11,
+            "type": "bitmap"
+          },
+          {
+            "ascent": 9,
+            "chars": [""],
+            "file": "minecraft:tags/bar_middle_4.png",
+            "height": 11,
+            "type": "bitmap"
+          },
+          {
+            "ascent": 9,
+            "chars": [""],
+            "file": "minecraft:tags/bar_middle_5.png",
+            "height": 11,
+            "type": "bitmap"
+          },
+          {
+            "ascent": 9,
+            "chars": [""],
+            "file": "minecraft:tags/bar_middle_6.png",
+            "height": 11,
+            "type": "bitmap"
+          },
+          {
+            "ascent": 9,
+            "chars": [""],
+            "file": "minecraft:tags/bar_middle_7.png",
+            "height": 11,
+            "type": "bitmap"
+          },
+          {
+            "ascent": 9,
+            "chars": [""],
+            "file": "minecraft:tags/bar_middle_8.png",
+            "height": 11,
+            "type": "bitmap"
+          },
+          {
+            "ascent": 9,
+            "chars": [""],
+            "file": "minecraft:tags/bar_middle_9.png",
+            "height": 11,
+            "type": "bitmap"
+          },
+          {
+            "ascent": 9,
+            "chars": [""],
+            "file": "minecraft:tags/bar_middle_10.png",
+            "height": 11,
+            "type": "bitmap"
+          },
+          {
+            "ascent": 9,
+            "chars": [""],
+            "file": "minecraft:tags/bar_middle_11.png",
+            "height": 11,
+            "type": "bitmap"
+          },
+          {
+            "ascent": 9,
+            "chars": [""],
+            "file": "minecraft:tags/bar_middle_12.png",
+            "height": 11,
+            "type": "bitmap"
+          }
+    ]
+}

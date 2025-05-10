@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "triland:block/mossyandtuff",
+		"particle": "triland:block/mossyandtuff"
+	},
+	"elements": [
+		{
+			"from": [-3, 7, -4],
+			"to": [20, 8, 19],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13, 7, 12]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0.69565], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 0.69565], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 0.69565], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 0.69565], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0]
+		}
+	}
+}
